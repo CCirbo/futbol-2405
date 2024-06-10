@@ -42,7 +42,7 @@
 
 - [Miro](https://miro.com/welcome/RGJtTDN0eWIybzQwenFOSHczSnp3ejFuQlVuQ2RmMFZuTlFjZTFBVHh1RDBmUTRBTUhxQTY2eTl2Q0ZlbUFmdnwzNDU4NzY0NTkxMTI5MTI4Mzg0fDE=?share_link_id=344001781302)
 
--[Mural](https://app.mural.co/t/futbolprojectretro3542/m/futbolprojectretro3542/1717893171826/b6e651eb31f24a47144d8e7f6266bce3c26cbdce?sender=u7becd221ae11a9a9bedf0674)
+- [Mural](https://app.mural.co/t/futbolprojectretro3542/m/futbolprojectretro3542/1717893171826/b6e651eb31f24a47144d8e7f6266bce3c26cbdce?sender=u7becd221ae11a9a9bedf0674)
 
 
 ### Contributors
