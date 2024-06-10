@@ -26,5 +26,32 @@ puts "most accurate team ratio of shots to goals for season 20152016"
 puts stat_tracker.most_accurate_team("20152016")
 puts "---\n"
 
+puts "best offense in the leauge "
+puts stat_tracker.best_offense 
+puts "---\n"
 
-require 'pry'; binding.pry
+puts "highest scoring home team"
+puts stat_tracker.highest_scoring_home_team
+puts "---\n"
+
+puts "lowest scoring visitor"
+puts stat_tracker.lowest_scoring_visitor
+puts "---\n"
+
+puts "highest total score"
+puts stat_tracker.highest_total_score
+puts "---\n"
+
+puts "percentage of visitor wins"
+puts stat_tracker.percentage_visitor_wins
+puts "---\n"
+
+puts "average goals per game"
+puts stat_tracker.average_goals_per_game
+puts "---\n"
+
+
+
+
+
+# require 'pry'; binding.pry
